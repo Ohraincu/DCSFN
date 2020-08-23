@@ -42,7 +42,7 @@ You can pause or start the training at any time because we can save the pre-trai
 
 ## Testing
 ### Pre-trained Models
-[BaiduYun](https://pan.baidu.com/s/19GO38UnOlMKcDToGJyNwvw)(pw:c3ri)
+[[BaiduYun]](https://pan.baidu.com/s/19GO38UnOlMKcDToGJyNwvw)(pw:c3ri)
 
 ### Quantitative and Qualitative Results
 After running eval.py, you can get the corresponding numerical results (PSNR and SSIM):
