@@ -58,7 +58,7 @@ All the pre-trained model in each case is placed in the corresponding 'model' fo
 
 ## Citation
 ```
-@inproceedings{acmmm20_jdnet,
+@inproceedings{acmmm20_dcsfn,
 	author    = {Cong Wang and Xiaoying Xing and Yutong Wu and Zhixun Su and Junyang Chen},
 	title     = {DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal},
 	booktitle = {ACM International Conference on Multimedia},
